@@ -1,0 +1,69 @@
+div{
+    background-color: #E4F9F5;
+}
+body{
+    margin:0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+.pro{
+    text-decoration: underline;
+}
+.extra{
+    background-color: yellow;
+    height: 200px;
+    width: 200px;
+    position: absolute;
+}
+.bottom-c{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+.top-container{
+    position: relative;
+    padding-top: 100px;
+}
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+h1{
+    margin-top: 50; 
+    font-family:'Sacramento', cursive;
+    font-size: 5.625em;
+    color: #66BFBF;
+
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+    
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999e;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+
+}
+
+.Skill{
+    width:25%;
+    float: left;
+    margin-right: 30px;
+}
+.game{
+    width:25%;
+    float: right;
+    margin-left: 30px;
+
+}
